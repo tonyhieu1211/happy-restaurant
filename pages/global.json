@@ -1,0 +1,15 @@
+{
+    "page-title":"Happy Restaurant",
+    "page-name": "Happy Restaurant",
+    "page-des": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts",
+    "working-hours":[
+        {"day": "monday", "time": "9:00 - 24:00"},
+        {"day": "tuesday", "time": "9:00 - 24:00"},
+        {"day": "wednesday", "time": "9:00 - 24:00"},
+        {"day": "thursday", "time": "9:00 - 24:00"},
+        {"day": "friday", "time": "9:00 - 2:00"},
+        {"day": "saturday", "time": "9:00 - 2:00"},
+        {"day": "sunday", "time": "closed"}
+    ]
+     
+}

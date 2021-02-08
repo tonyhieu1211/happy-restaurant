@@ -1,0 +1,32 @@
+{
+    "contents":[
+        {
+            "header": "Eat Healthy <br> and Natural Foods",
+            "body": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.",
+            "img_url": "images/bg_3.jpg"
+        },
+        {
+            "header": "We Love <br> Delicious Foods",
+            "body": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.",
+            "img_url": "images/bg_2.jpg"
+        }        
+    ],
+    "about":{
+        "header": "Welcome to Happy Restaurant",
+        "body": "On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word 'and' and the Little Blind Text should turn around and return to its own, safe country. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+        "images":[
+            {
+                "img_url":"images/lunch-4.jpg",
+                "name": "Australian Organic Beef"
+            },
+            {
+                "img_url":"images/lunch-6.jpg",
+                "name": "Australian Organic Beef"
+            },
+            {
+                "img_url":"images/lunch-7.jpg",
+                "name": "Australian Organic Beef"
+            }
+        ]
+    }
+}
