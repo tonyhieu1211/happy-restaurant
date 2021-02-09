@@ -1,4 +1,5 @@
 const express = require('express');
+const { reservation } = require('../controllers');
 const controllers = require('../controllers');
 const router = express.Router();
 
@@ -24,5 +25,16 @@ router.get('/items',async (req, res, next)=>{
     const items = await itemCtr.get();
     res.json({items});
 });
+
+router.post('/reservation',async (req, res, next)=>{
+    
+    req.body.person = Number(req.body.person);
+    req.body.date = new Date(req.body.date);
+    const reservationData = req.body;
+    const reservationCtr = controllers.reservation.instance();
+    const savedReservation = await reservationCtr.post(reservationData);
+    res.json(savedReservation);
+  
+})
 
 module.exports = router;
