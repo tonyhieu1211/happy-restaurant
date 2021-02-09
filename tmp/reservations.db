@@ -1,0 +1,3 @@
+{"name":"Thu Trang","email":"huonglethu@gmail.com","phone":"0966751963","date":{"$$date":1612890000000},"time":"1:00am","person":3,"schema":"reservation","timestamp":{"$$date":1612864685012},"_id":"6t8sVYl8v4peZQAC"}
+{"name":"Hieu Tran","email":"tranminhhieu9901@gmail.com","phone":"0828505833","date":{"$$date":1609693200000},"time":"12:30am","person":3,"schema":"reservation","timestamp":{"$$date":1612863948952},"_id":"iT5MUsjx2Gpw3naP"}
+{"name":"Tran Anh Vu","email":"trananhvu9901@gmail.com","phone":"0828504234","date":{"$$date":1613926800000},"time":"12:00am","person":3,"schema":"reservation","timestamp":{"$$date":1612866497732},"_id":"IAmdwuSsZismWVw4"}
